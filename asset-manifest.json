@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8cd73d6b.css",
+    "main.js": "/static/js/main.9af92e20.js",
+    "static/js/787.c50ff9fc.chunk.js": "/static/js/787.c50ff9fc.chunk.js",
+    "static/media/START.gif": "/static/media/START.37f0f73a4fd7ada70101.gif",
+    "static/media/MOVIE_LOGO.png": "/static/media/MOVIE_LOGO.92e39f22c75989b39090.png",
+    "index.html": "/index.html",
+    "main.8cd73d6b.css.map": "/static/css/main.8cd73d6b.css.map",
+    "main.9af92e20.js.map": "/static/js/main.9af92e20.js.map",
+    "787.c50ff9fc.chunk.js.map": "/static/js/787.c50ff9fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cd73d6b.css",
+    "static/js/main.9af92e20.js"
+  ]
+}
