@@ -1,4 +1,4 @@
-# Live Working Link : https://netflix-gpt-ayush.netlify.app/
+# Live Working Link : https://netflix-gpt-ayush-kumar.netlify.app
 
 # Netflix Integrated GPT
 
