@@ -1,4 +1,4 @@
-# Live Working Link : https://netflix-test-deploy.pages.dev/
+# Live Working Link : [NetflixGpt | Ayush](https://filmflix-gpt-by-ayush.netlify.app/)
 
 # Netflix Integrated GPT
 
